@@ -20,5 +20,5 @@ Handheld Wi-Fi scanning device built with ESP32.
 - Identifies low-utilisation channels
 
 ## Build
-Built entirely by hand on perfboard. 
+Built entirely by hand on perfboards. 
 No PCB, no breadboard - permanent build.
